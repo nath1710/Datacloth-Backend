@@ -19,8 +19,6 @@
 
 ## ⚙️ Instalación y ejecución
 
-1. Clona el repositorio:
-
 ```bash
 git clone https://github.com/nath1710/Datacloth-backend.git
 
